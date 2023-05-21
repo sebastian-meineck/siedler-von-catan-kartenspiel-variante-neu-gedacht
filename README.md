@@ -25,6 +25,8 @@ Haben beide Spielenden in der Summe 20 Siegpunkte erreicht, und es konnte noch k
 
 ### Aufbau
 
+![Aufbau zum Spielbeginn](https://github.com/sebastian-meineck/siedler-von-catan-kartenspiel-variante-neu-gedacht/blob/main/fotos/aufbau-vor-dem-spiel.jpg?raw=true)
+
 Beide Seiten beginnen mit bereits vollständig entfalteten Fürstentümern. Der Bau von neuen Straßen und Siedlungen entfällt.
 
 Vor Beginn des Spiels legen beide Seiten drei Siedlungen und drei Straßen aus. An den Rand des Fürstentums kommt anstelle einer vierten Siedlung eine leere Zitadelle. 
