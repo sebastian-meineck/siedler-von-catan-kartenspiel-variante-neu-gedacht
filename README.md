@@ -71,6 +71,8 @@ Die Spieldauer lässt sich anpassen, indem man die für den Gewinn nötige Anzah
 
 ## Karten-Index
 
+![Spiel-Situation](https://github.com/sebastian-meineck/siedler-von-catan-kartenspiel-variante-neu-gedacht/blob/main/fotos/spiel-situation.jpg?raw=true)
+
 Die neuen und überarbeiteten Karten nutzen bis auf wenige Ausnahmen die Bebilderung der Originalkarten. Entsprechend ändert sich auf den meisten Karten lediglich die Texttafel. Dafür lässt sich bedruckbares, selbstklebendes Etikettenpapier verwenden. 
 
 Der nun folgende Index sortiert die Karten zuerst nach Typ und listet sie dann alphabetisch auf. Sofern nicht anders notiert, ist jede der hier aufgelisteten Karten ein Mal vorhanden. Die meisten Karten behalten ihren ursprünglichen Namen. Falls sich der Name geändert hat, ist das zusätzlich notiert.
