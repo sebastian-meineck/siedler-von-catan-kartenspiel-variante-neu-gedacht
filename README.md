@@ -284,6 +284,8 @@ Zum Spielbeginn gibt es zwei mal zwei Fürstentümer mit jeweils zwei Ortschafte
 
 In der Mitte der verbündeten Fürstentümer ist eine gemeinsam genutzte Zitadelle mit Hexe. An die Zitadelle dürfen nur lila-farbene Zauberausbauten ausgelegt werden. Es gibt dort drei freie Bauplätze. Optional können die Straßen zur Zitadelle eine andere Optik haben, um die Grenze der Fürstentümer deutlicher zu markieren.
 
+![Aufbau für 4 Spielende](https://github.com/sebastian-meineck/siedler-von-catan-kartenspiel-variante-neu-gedacht/blob/main/fotos/vor-dem-spiel-fuer-4-spielende.jpeg?raw=true)
+
 Die Punkte verbündeter Fürstentümer werden addiert: Sieg- und Handelspunkte, Stärke- und Turnierpunkte. Die Schwelle zum Gewinnen liegt bei 10 Siegpunkten.
 
 Abgesehen von ihren Punkten wirken sich Ausbaukarten allerdings nur auf das Fürstentum aus, in dem sie ausgelegt wurden. Das heißt, von z.B. einem Rathaus oder einer Kaperflotte profitieren nicht beide verbündete Fürstentümer.
