@@ -10,6 +10,8 @@ Aggressive und destruktive Karten, die Spielende in ihrem Fortschritt zurückwer
 
 Die Modifikation basiert auf dem nur noch antiquarisch erhältlichen Grundspiel und dessen ersten sechs Erweiterungen (Ritter & Händler, Wissenschaft & Fortschritt, Handel & Wandel, Politik & Intrige, Zauberer & Drachen, Barbaren & Handelsherren).
 
+Auf Grundlage dieser Modifikation gibt es auch Variante für 4 Spieler*innen (siehe unten).
+
 ## Regeländerungen
 
 Soweit nicht anders notiert gelten die Original-Regeln:
@@ -275,3 +277,22 @@ Grundlage sind Ritter-Karten, die zwei Rohstoffe kosten, z.B. Kanone, Bauernheer
 * Ort, wandle Dich!: Tauschen Sie eine bereites gebaute Karte mit einer günstigeren oder gleich teuren Krate aus Ihrer Hand.
 * Zauberveto: Gefällt Ihnen das Ergebnis des Ertragswürfels nicht, dann gilt es nur für die Gegenseite, und Sie werfen vier Rohstoffwürfel. 
 * Zeitsprung: Bestimmen Sie das Ergebnis des Ertragswürfels.
+
+## Variante für 4 Spieler*innen
+
+Zum Spielbeginn gibt es zwei mal zwei Fürstentümer mit jeweils zwei Ortschaften. Dafür ist ein zweites Grundspiel notwendig. Je zwei Spielende sitzen nebeneinander und agieren als Team. Sie bauen getrennte, aber miteinander verbündete Fürstentümer.
+
+In der Mitte der verbündeten Fürstentümer ist eine gemeinsam genutzte Zitadelle mit Hexe. An die Zitadelle dürfen nur lila-farbene Zauberausbauten ausgelegt werden. Es gibt dort drei freie Bauplätze. Optional können die Straßen zur Zitadelle eine andere Optik haben, um die Grenze der Fürstentümer deutlicher zu markieren.
+
+Die Punkte verbündeter Fürstentümer werden addiert: Sieg- und Handelspunkte, Stärke- und Turnierpunkte. Die Schwelle zum Gewinnen liegt bei 10 Siegpunkten.
+
+Abgesehen von ihren Punkten wirken sich Ausbaukarten allerdings nur auf das Fürstentum aus, in dem sie ausgelegt wurden. Das heißt, von z.B. einem Rathaus oder einer Kaperflotte profitieren nicht beide verbündete Fürstentümer.
+
+Einmal pro Zug darf ein Team eine Handkarte untereinander tauschen sowie die Rohstoffe einer Landschaftskarte ins jeweils andere Fürstentum verlagern. Ein Zauberbuch darf pro Zug nur einmal pro Team genutzt werden.
+
+Ein Zug beginnt mit dem Würfelwurf. Die Würfel werden nicht pro Person, sondern pro Team geworfen. Die Teams würfeln abwechselnd. Nach dem Würfelwurf können die Team-Mitglieder, die gerade am Zug sind, in Absprache miteinander ihre Spielzüge machen.
+
+Die Texte auf den Karten sind fürs Spiel zu zweit optimiert. Deshalb braucht es an manchen Stellen Klärungen:
+- Ist von "der" Gegenseite die Rede, sind beide gegnerischen Fürstentümer zusammen gemeint.
+- Auch beim Ereignis "Räuber" wird pro Spielseite nur eine Landschaftskarte ausgeraubt.
+- Bei Aktionskarten gilt das Prinzip getrennter Fürstentümer. Das heißt, Karten wie "Händler" oder "Karawane" betreffen nicht die Rohstoffe des verbündeten Fürstentums.
